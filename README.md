@@ -6,7 +6,7 @@ Download and install OptiPerformer software on your computer and run a sample fi
 
 ---
 
-## PROCEDURE
+## THEORY
 
 Optiwave introduces **OptiPerformer**, a free photonic design automation tool that harnesses the full power of OptiSystem and creates specific dynamic design scenarios for student use.
 
@@ -25,7 +25,7 @@ The system includes:
 
 ---
 
-## Instructions
+## PROCEDURE
 
 1. Download and install OptiPerformer from [optiwave.com](https://optiwave.com).  
 2. Copy the `Introduction_OptiPerformer.osp` file to your PC.  
@@ -57,7 +57,7 @@ The system includes:
 
 ---
 
-## Report
+## OBSERVATION
 
 1. Cover sheet (as per attached example).  
 2. Tabulation of received power, Q factor, and BER for 5 fiber lengths.  
